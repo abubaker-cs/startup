@@ -1,0 +1,5 @@
+# Startup
+Base startup folder for organizing Graphics Designing projects.
+
+### Note  
+I am continuously refining this folder structure since 2008 or 2009.
